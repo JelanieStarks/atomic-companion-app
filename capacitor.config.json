@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Atomic Companion App",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Atomic Companion App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "fb54a8fd"
+}
